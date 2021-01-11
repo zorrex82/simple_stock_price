@@ -37,7 +37,6 @@ streamlit run myapp.py
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
-* [Opencv](https://opencv.org/)
 * [Streamlit](https://www.streamlit.io/)
 ---
 
